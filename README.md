@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone! I'm Aleksey.
 <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/1UEW.gif" height="32"/></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=181AF7&multiline=true&width=435&lines=Engineer%2C+EMBEDDED-programmer;junior+front+end+programmer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=100&color=181AF7&multiline=true&width=435&lines=Engineer%2C+EMBEDDED-programmer;junior+front+end+programmer" alt="Typing SVG" /></a>
 <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/2GU.gif" height="20"/>
 <!--
 **VolcharaMastering/VolcharaMastering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
