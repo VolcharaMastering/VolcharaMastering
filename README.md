@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone! I'm Aleksey.
 <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/1UEW.gif" height="32"/></h1>
 <div align="center">
-  <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/2GU.gif" height="40"/>
+  <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/2GU.gif" height="50"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=1000&pause=999&color=181AF7&center=true&multiline=true&width=435&height=70&lines=Engineer%2C+Full-Stack-engineer;junior+frontend+developer" alt="Typing SVG" /></a>
 </div> 
 
