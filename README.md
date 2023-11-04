@@ -8,7 +8,7 @@
 
 ###
 
-- 🌱 It specialist since 2010, masters degree (it), web-developer - **Я.Практикум** courses 
+- 🌱 It specialist since 2010, masters degree (it), web-developer - **Ya.Practicum** courses 
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/VolcharaMastering?tab=repositories)
 
