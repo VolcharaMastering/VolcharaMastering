@@ -113,12 +113,6 @@
 
 ###
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=volcharamastering&label=Profile%20views&color=0e75b6&style=flat" alt="volcharamastering" />
-</p>
-
-###
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=volcharamastering&show_icons=true&locale=en" alt="volcharamastering" />
 </p>
