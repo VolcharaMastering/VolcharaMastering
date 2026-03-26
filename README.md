@@ -1,4 +1,4 @@
-<h1 align="center">Hello everyone! I'm Aleksey.
+<h1 align="center">Aleksey.
 <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/1UEW.gif" height="52"/></h1>
 <div align="center">
   <img src="https://github.com/VolcharaMastering/VolcharaMastering/blob/main/gifs/2GU.gif" height="60"/>
@@ -8,9 +8,9 @@
 
 ###
 
-- 🌱 **It specialist since 2010, masters degree (it), web-developer - Ya.Practicum courses** 
+- 🌱 **It specialist since 2010, masters degree (IT)** 
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/VolcharaMastering?tab=repositories)
+- 👨‍💻 [My projects](https://github.com/VolcharaMastering?tab=repositories)
 
 ###
 
